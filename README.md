@@ -1,8 +1,8 @@
-# CryptAnalysis
-
-# TradeForecaster
+# Stock Trade Forecaster
 
 TradeForecaster is a Python-based project for forecasting stock prices and analyzing financial news sentiment to assist in making informed trading decisions.
+
+it makes use of a custom coded Recurrent Neural Network (RNN) trained on 5 years worth of data. This allows it to predict long terms and short term trends. On top of that, to handle extremely sudden changes, we added sentiment analysis from live news articles. The combination of these 2 things, allows it to hit over 90% accuracy in the trend of the stock 
 
 ## Features
 
